@@ -31,13 +31,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SkyDream01&show_icons=true&theme=radical&rank_icon=github&count_private=true&include_all_commits=true" alt="GitHub Stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyDream01&layout=compact&theme=tokyonight" alt="Top Languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=SkyDream01&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 </p>
 
-<br>
-
-### 📖 我最近的文章 (My Recent Blog Posts)
 <br>
 
 <p align="center">
