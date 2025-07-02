@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text= 你好 Hello こんにちは！&fontSize=70&fontAlignY=35&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=你好，访客！&fontSize=70&fontAlignY=35&animation=twinkling" />
 </p>
 
 <p align="center">
