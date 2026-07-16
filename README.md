@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://tensin.top/" target="_blank"><img src="https://img.shields.io/badge/Website-4782da?style=for-the-badge&logo=About.me&logoColor=white" alt="Website"></a>
-  <a href="mailto:l2320842717@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="mailto:skydream4869@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 <br>
